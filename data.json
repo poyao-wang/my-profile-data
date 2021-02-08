@@ -25,6 +25,7 @@
     "profile": {
       "oneLineMsg": "A Self-Taught Programmer",
       "aboutMe": "I am a mechanical engineer. Working in automobile industry. I started stydying programming since 2019.",
+      "pictureUrl": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/me.jpeg",
       "name": "Poyao Wang",
       "details": [
         {
@@ -348,6 +349,7 @@
     "profile": {
       "oneLineMsg": "自學程式設計師",
       "aboutMe": "我是機械工程師。目前在汽車產業就職。我從2019年開始自學程式設計。",
+      "pictureUrl": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/me.jpeg",
       "name": "王 柏 堯",
       "details": [
         {
@@ -671,6 +673,7 @@
     "profile": {
       "oneLineMsg": "独学プログラマー",
       "aboutMe": "現職は自動車産業の機械エンジニア。2019年からプログラミングを習い始めた。",
+      "pictureUrl": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/me.jpeg",
       "name": "ワン ポヤオ",
       "details": [
         {
