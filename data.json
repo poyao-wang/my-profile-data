@@ -1,15 +1,15 @@
 {
   "version": {
-    "number": "1.1.0",
-    "time": "2021-05-20T13:35"
+    "number": "1.1.1",
+    "time": "2021-05-20T14:00"
   },
   "structure-version": {
     "number": "1.0.0",
     "time": "2021-05-20T13:33"
   },
   "data-version": {
-    "number": "1.1.0",
-    "time": "2021-05-20T13:35"
+    "number": "1.1.1",
+    "time": "2021-05-20T14:00"
   },
   "defaultLanguage": "eng",
   "eng": {
@@ -75,7 +75,7 @@
             "inst": "Chassis Brake International",
             "subInst": "CBI Japan",
             "hrefText": "https://www.chassisbrakes.com/country/japan/",
-            "jobTitle": "Test Engineer",
+            "jobTitle": "Testing Engineer",
             "time": "Jul 2019 - Present",
             "cont": "Responsible for brake units testing. Brake performance test, functional tests. Test data analysis, summarising, material making. "
           },
@@ -91,7 +91,7 @@
             "inst": "Daimler AG",
             "subInst": "Mitsubishi Fuso",
             "hrefText": "https://www.mitsubishi-fuso.com",
-            "jobTitle": "Test Engineer",
+            "jobTitle": "Testing Engineer",
             "time": "Apr 2013 - Sep 2016",
             "cont": "Responsible for heavy duty diesel engine dyno testing. Engine performance test, emission test , functional test, and durability test. Test data analysis, summarising, material making. Test planning, execution. "
           }
