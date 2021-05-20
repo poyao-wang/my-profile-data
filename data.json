@@ -1,15 +1,15 @@
 {
   "version": {
-    "number": "1.1.1",
-    "time": "2021-05-20T14:00"
+    "number": "1.2.0",
+    "time": "2021-05-20T14:35"
   },
   "structure-version": {
-    "number": "1.0.0",
-    "time": "2021-05-20T13:33"
+    "number": "1.2.0",
+    "time": "2021-05-20T14:35"
   },
   "data-version": {
-    "number": "1.1.1",
-    "time": "2021-05-20T14:00"
+    "number": "1.2.0",
+    "time": "2021-05-20T14:35"
   },
   "defaultLanguage": "eng",
   "eng": {
@@ -56,7 +56,8 @@
             "hrefText": "https://www.eng.osaka-u.ac.jp/en",
             "jobTitle": "Sphecial Researcher",
             "time": "2010 - 2011",
-            "cont": "Takeishi and Komiyama's Laboratory. FrontierLab Program Fall 2010. Gas turbine film cooling research."
+            "cont": "Takeishi and Komiyama's Laboratory. FrontierLab Program Fall 2010. Gas turbine film cooling research.",
+            "contShort": "Takeishi and Komiyama's Laboratory. Gas turbine film cooling research."
           },
           {
             "inst": "National Tsing Hua University",
@@ -64,7 +65,8 @@
             "hrefText": "http://pme.site.nthu.edu.tw/index.php?Lang=en",
             "jobTitle": "Power of Mechanical Engineering",
             "time": "2006 - 2011",
-            "cont": "Bachelor's degree. Thermo-Fluids Engineering Division"
+            "cont": "Bachelor's degree. Thermo-Fluids Engineering Division",
+            "contShort": "Bachelor's degree. Thermo-Fluids Engineering Division"
           }
         ]
       },
@@ -77,7 +79,8 @@
             "hrefText": "https://www.chassisbrakes.com/country/japan/",
             "jobTitle": "Testing Engineer",
             "time": "Jul 2019 - Present",
-            "cont": "Responsible for brake units testing. Brake performance test, functional tests. Test data analysis, summarising, material making. "
+            "cont": "Responsible for brake units testing. Brake performance test, functional tests. Test data analysis, summarising, material making. ",
+            "contShort": "Responsible for automobile brake units testing. Test planning, data analysis and report."
           },
           {
             "inst": "Working Holiday in Australia",
@@ -85,7 +88,8 @@
             "hrefText": false,
             "jobTitle": "Backpacker",
             "time": "Jan 2018 - May 2019",
-            "cont": "Experiencing Australian culture and lifestyle. Kitchen hand of Sushi Train (sushi restaurant). Production line worker in Australian Country Choice (meat factory)."
+            "cont": "Experiencing Australian culture and lifestyle. Kitchen hand of Sushi Train (sushi restaurant). Production line worker in Australian Country Choice (meat factory).",
+            "contShort": "Experiencing Australian culture and lifestyle.　Restaurant and meat factory staff."
           },
           {
             "inst": "Daimler AG",
@@ -93,7 +97,8 @@
             "hrefText": "https://www.mitsubishi-fuso.com",
             "jobTitle": "Testing Engineer",
             "time": "Apr 2013 - Sep 2016",
-            "cont": "Responsible for heavy duty diesel engine dyno testing. Engine performance test, emission test , functional test, and durability test. Test data analysis, summarising, material making. Test planning, execution. "
+            "cont": "Responsible for heavy duty diesel engine dyno testing. Engine performance test, emission test , functional test, and durability test. Test data analysis, summarising, material making. Test planning, execution. ",
+            "contShort": "Responsible for diesel engine testing. Test planning, data analysis and report."
           }
         ]
       }
@@ -379,7 +384,8 @@
             "hrefText": "https://www.eng.osaka-u.ac.jp/en",
             "jobTitle": "特別研究生",
             "time": "2010 - 2011",
-            "cont": "武石‧小宮山研究室。FrontierLab計畫2010秋季。渦輪引擎氣膜冷卻技術研究。"
+            "cont": "武石‧小宮山研究室。FrontierLab計畫2010秋季。渦輪引擎氣膜冷卻技術研究。",
+            "contShort": "武石‧小宮山研究室。渦輪引擎氣膜冷卻技術研究。"
           },
           {
             "inst": "國立清華大學",
@@ -387,7 +393,8 @@
             "hrefText": "http://pme.site.nthu.edu.tw/index.php?Lang=en",
             "jobTitle": "動力機械工程學系",
             "time": "2006 - 2011",
-            "cont": "學士學位。 熱流能源學程"
+            "cont": "學士學位。 熱流能源學程。",
+            "contShort": "學士學位。 熱流能源學程。"
           }
         ]
       },
@@ -400,7 +407,8 @@
             "hrefText": "https://www.chassisbrakes.com/country/japan/",
             "jobTitle": "測試工程師",
             "time": "2019年7月 - 現在",
-            "cont": "負責汽車剎車零件測試。煞車性能試驗、剎車機能試驗。 測試數據分析、整理，測試報告撰寫。"
+            "cont": "負責汽車剎車零件測試。煞車性能試驗、剎車機能試驗。 測試數據分析、整理，測試報告撰寫。",
+            "contShort": "負責汽車剎車零件測試。測試行程規劃、數據分析與報告。"
           },
           {
             "inst": "澳洲打工度假",
@@ -408,7 +416,8 @@
             "hrefText": false,
             "jobTitle": "背包客",
             "time": "2018年1月 - 2019年5月",
-            "cont": "體驗澳洲文化與生活。Sushi Train（連鎖壽司店）廚房幫手。Australian Country Choice（牛肉工廠）生產線員工。"
+            "cont": "體驗澳洲文化與生活。Sushi Train（連鎖壽司店）廚房幫手。Australian Country Choice（牛肉工廠）生產線員工。",
+            "contShort": "體驗澳洲文化與生活。餐廳和肉類工廠的工作人員。"
           },
           {
             "inst": "戴姆勒汽車集團",
@@ -416,7 +425,8 @@
             "hrefText": "https://www.mitsubishi-fuso.com",
             "jobTitle": "測試工程師",
             "time": "2013年4月 - 2016年9月",
-            "cont": "負責大型柴油引擎測試。性能試驗、機能試驗、耐久試驗。測試數據分析、整理，測試報告撰寫。測試行程規劃、執行。"
+            "cont": "負責大型柴油引擎測試。性能試驗、機能試驗、耐久試驗。測試數據分析、整理，測試報告撰寫。測試行程規劃、執行。",
+            "contShort": "負責大型柴油引擎測試。測試行程規劃、數據分析與報告。"
           }
         ]
       }
@@ -702,7 +712,8 @@
             "hrefText": "https://www.eng.osaka-u.ac.jp/en",
             "jobTitle": "特別研究生",
             "time": "2010 - 2011",
-            "cont": "武石・小宮山研究室。2010年FrontierLabプログラム。ガスタービンのフィルム冷却に関する研究。"
+            "cont": "武石・小宮山研究室。2010年FrontierLabプログラム。ガスタービンのフィルム冷却に関する研究。",
+            "contShort": "武石・小宮山研究室。ガスタービンのフィルム冷却に関する研究。"
           },
           {
             "inst": "国立清華大学",
@@ -710,7 +721,8 @@
             "hrefText": "http://pme.site.nthu.edu.tw/index.php?Lang=en",
             "jobTitle": "動力機械工学部",
             "time": "2006 - 2011",
-            "cont": "学士。熱流体力学分野。"
+            "cont": "学士。熱流体力学分野。",
+            "contShort": "学士。熱流体力学分野。"
           }
         ]
       },
@@ -723,7 +735,8 @@
             "hrefText": "https://www.chassisbrakes.com/country/japan/",
             "jobTitle": "テスティングエンジニア",
             "time": "2019年7月 - 現在",
-            "cont": "車用ブレーキ試験担当。ブレーキ性能試験、ブレーキ機能試験。データー解析、まとめ。レポート作成。"
+            "cont": "車用ブレーキ試験担当。ブレーキ性能試験、ブレーキ機能試験。データー解析、まとめ。レポート作成。",
+            "contShort": "車用ブレーキ試験担当。試験計画、データー解析、レポート作成。"
           },
           {
             "inst": "オーストラリア",
@@ -731,7 +744,8 @@
             "hrefText": false,
             "jobTitle": "バックパッカー",
             "time": "2018年1月 - 2019年5月",
-            "cont": "オーストラリアの文化とライフスタイルの体験。Sushi Train（寿司屋）キッチンスタッフ。Australian Country Choice（牛肉工場）生産スタッフ。"
+            "cont": "オーストラリアの文化とライフスタイルの体験。Sushi Train（寿司屋）キッチンスタッフ。Australian Country Choice（牛肉工場）生産スタッフ。",
+            "contShort": "オーストラリアの文化とライフスタイルの体験。レストランと肉工場のスタッフ。"
           },
           {
             "inst": "ダイムラー AG",
@@ -739,7 +753,8 @@
             "hrefText": "https://www.mitsubishi-fuso.com",
             "jobTitle": "開発エンジニア",
             "time": "2013年4月 - 2016年9月",
-            "cont": "大型ディーゼルエンジン試験担当。性能試験、機能試験、耐久試験。データー解析、まとめ。レポート作成。試験プランニング、実行。"
+            "cont": "大型ディーゼルエンジン試験担当。性能試験、機能試験、耐久試験。データー解析、まとめ。レポート作成。試験プランニング、実行。",
+            "contShort": "大型ディーゼルエンジン試験担当。試験計画、データー解析、レポート作成。"
           }
         ]
       }
