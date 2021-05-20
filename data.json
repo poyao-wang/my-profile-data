@@ -1,6 +1,6 @@
 {
   "version": {
-    "number": "1.7.0",
+    "number": "1.8.0",
     "time": "2021-05-20T18:20"
   },
   "structure-version": {
@@ -8,8 +8,8 @@
     "time": "2021-05-20T14:44"
   },
   "data-version": {
-    "number": "1.5.0",
-    "time": "2021-05-20T18:20"
+    "number": "1.6.0",
+    "time": "2021-05-20T18:52"
   },
   "defaultLanguage": "eng",
   "eng": {
@@ -143,20 +143,6 @@
             "rate": 4
           },
           {
-            "name": "Git / Github",
-            "iconName": "git",
-            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/git.png",
-            "default": true,
-            "rate": 3
-          },
-          {
-            "name": "Python",
-            "iconName": "language-python",
-            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/python.png",
-            "default": false,
-            "rate": 3
-          },
-          {
             "name": "Bootstrap",
             "iconName": "bootstrap",
             "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/bootstrap.png",
@@ -164,10 +150,17 @@
             "rate": 3
           },
           {
-            "name": "MongoDb",
-            "iconName": "database",
-            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/mongodb.png",
-            "default": false,
+            "name": "Git",
+            "iconName": "git",
+            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/git.png",
+            "default": true,
+            "rate": 3
+          },
+          {
+            "name": "Firebase",
+            "iconName": "",
+            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/firebase.png",
+            "default": true,
             "rate": 3
           },
           {
@@ -208,6 +201,20 @@
             "iconName": "microsoft-visual-studio-code",
             "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/vscode.png",
             "default": true,
+            "rate": 3
+          },
+          {
+            "name": "App Store",
+            "iconName": "",
+            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/app-store.png",
+            "default": false,
+            "rate": 3
+          },
+          {
+            "name": "Play Store",
+            "iconName": "",
+            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/google-play-store.png",
+            "default": false,
             "rate": 3
           },
           {
@@ -448,20 +455,6 @@
             "rate": 4
           },
           {
-            "name": "Git / Github",
-            "iconName": "git",
-            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/git.png",
-            "default": true,
-            "rate": 3
-          },
-          {
-            "name": "Python",
-            "iconName": "language-python",
-            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/python.png",
-            "default": false,
-            "rate": 3
-          },
-          {
             "name": "Bootstrap",
             "iconName": "bootstrap",
             "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/bootstrap.png",
@@ -469,10 +462,17 @@
             "rate": 3
           },
           {
-            "name": "MongoDb",
-            "iconName": "database",
-            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/mongodb.png",
-            "default": false,
+            "name": "Git",
+            "iconName": "git",
+            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/git.png",
+            "default": true,
+            "rate": 3
+          },
+          {
+            "name": "Firebase",
+            "iconName": "",
+            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/firebase.png",
+            "default": true,
             "rate": 3
           },
           {
@@ -513,6 +513,20 @@
             "iconName": "microsoft-visual-studio-code",
             "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/vscode.png",
             "default": true,
+            "rate": 3
+          },
+          {
+            "name": "App Store",
+            "iconName": "",
+            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/app-store.png",
+            "default": false,
+            "rate": 3
+          },
+          {
+            "name": "Play Store",
+            "iconName": "",
+            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/google-play-store.png",
+            "default": false,
             "rate": 3
           },
           {
@@ -753,20 +767,6 @@
             "rate": 4
           },
           {
-            "name": "Git / Github",
-            "iconName": "git",
-            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/git.png",
-            "default": true,
-            "rate": 3
-          },
-          {
-            "name": "Python",
-            "iconName": "language-python",
-            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/python.png",
-            "default": false,
-            "rate": 3
-          },
-          {
             "name": "Bootstrap",
             "iconName": "bootstrap",
             "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/bootstrap.png",
@@ -774,10 +774,17 @@
             "rate": 3
           },
           {
-            "name": "MongoDb",
-            "iconName": "database",
-            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/mongodb.png",
-            "default": false,
+            "name": "Git",
+            "iconName": "git",
+            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/git.png",
+            "default": true,
+            "rate": 3
+          },
+          {
+            "name": "Firebase",
+            "iconName": "",
+            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/firebase.png",
+            "default": true,
             "rate": 3
           },
           {
@@ -818,6 +825,20 @@
             "iconName": "microsoft-visual-studio-code",
             "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/vscode.png",
             "default": true,
+            "rate": 3
+          },
+          {
+            "name": "App Store",
+            "iconName": "",
+            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/app-store.png",
+            "default": false,
+            "rate": 3
+          },
+          {
+            "name": "Play Store",
+            "iconName": "",
+            "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/ability/google-play-store.png",
+            "default": false,
             "rate": 3
           },
           {
