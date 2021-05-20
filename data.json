@@ -1,15 +1,15 @@
 {
   "version": {
-    "number": "1.2.1",
-    "time": "2021-05-20T14:35"
+    "number": "1.3.0",
+    "time": "2021-05-20T14:48"
   },
   "structure-version": {
     "number": "1.2.0",
     "time": "2021-05-20T14:44"
   },
   "data-version": {
-    "number": "1.2.1",
-    "time": "2021-05-20T14:44"
+    "number": "1.3.0",
+    "time": "2021-05-20T14:48"
   },
   "defaultLanguage": "eng",
   "eng": {
@@ -290,13 +290,6 @@
           "cardTitleText": "My iOS / Android App",
           "cardText": "This App is build by React Native. Deployed on Apple and Goole App store.",
           "btnLink": "https://github.com/poyao-wang/poyao-mobile-app",
-          "btnText": "Github Link"
-        },
-        {
-          "imgSrc": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/control-box.jpg",
-          "cardTitleText": "Raspberry Pi / Python",
-          "cardText": "A motor controller, built on Raspberry Pi, coding in Python, using Tkinter as GUI.",
-          "btnLink": "https://github.com/BoyoWang/control-box",
           "btnText": "Github Link"
         }
       ]
@@ -619,13 +612,6 @@
           "cardText": "這個 App 使用 React Native 撰寫。並且於 Apple 與 Google 的應用程式商店上架。",
           "btnLink": "https://github.com/poyao-wang/poyao-mobile-app",
           "btnText": "Github 連結"
-        },
-        {
-          "imgSrc": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/control-box.jpg",
-          "cardTitleText": "Raspberry Pi / Python",
-          "cardText": "這是一個馬達控制器，使用 Raspberry Pi 為硬體介面，控制邏輯由 Python 寫成，並結合使用者介面 Tkinter 函式庫。",
-          "btnLink": "https://github.com/BoyoWang/control-box",
-          "btnText": "Github 連結"
         }
       ]
     },
@@ -946,13 +932,6 @@
           "cardTitleText": "My iOS / Android App",
           "cardText": "このアプリは React Native で作り、Apple と Google のアプリストアにアップロードした。",
           "btnLink": "https://github.com/poyao-wang/poyao-mobile-app",
-          "btnText": "Github リンク"
-        },
-        {
-          "imgSrc": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/control-box.jpg",
-          "cardTitleText": "Raspberry Pi / Python",
-          "cardText": "Raspberry Pi をハードウェアにしたモーターコントローラー。Python によりコントロールロジックを作成し、Tkinter で GUI を作った。",
-          "btnLink": "https://github.com/BoyoWang/control-box",
           "btnText": "Github リンク"
         }
       ]
