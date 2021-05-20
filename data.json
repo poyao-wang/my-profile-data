@@ -1,7 +1,15 @@
 {
   "version": {
-    "number": 2,
-    "time": "2021-02-08T10:00:00Z"
+    "number": "1.0.0",
+    "time": "2021-05-20T13:33"
+  },
+  "structure-version": {
+    "number": "1.0.0",
+    "time": "2021-05-20T13:33"
+  },
+  "data-version": {
+    "number": "1.0.0",
+    "time": "2021-05-20T13:33"
   },
   "defaultLanguage": "eng",
   "eng": {
