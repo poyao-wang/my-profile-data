@@ -1,14 +1,14 @@
 {
   "version": {
-    "number": "1.8.5",
+    "number": "1.9.0",
     "time": "2021-05-21T16:17"
   },
   "structure-version": {
-    "number": "1.2.0",
+    "number": "1.3.0",
     "time": "2021-05-20T14:44"
   },
   "data-version": {
-    "number": "1.6.4",
+    "number": "1.7.0",
     "time": "2021-05-21T16:17"
   },
   "defaultLanguage": "eng",
@@ -23,12 +23,13 @@
       "settings": "Settings"
     },
     "home": {
-      "title": "Poyao  Wang",
+      "title": "Poyao Wang",
       "subTitle": "This is Poyao's mobile app",
       "buttonTitle": "WELCOME",
       "btnTextEng": "English",
       "btnTextCht": "中　文",
-      "btnTextJpn": "日本語"
+      "btnTextJpn": "日本語",
+      "logoUrl": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/pw-logo-suqare-dark.png"
     },
     "profile": {
       "oneLineMsg": "A Self-Taught Programmer",
@@ -340,7 +341,8 @@
       "buttonTitle": "歡　迎",
       "btnTextEng": "English",
       "btnTextCht": "中　文",
-      "btnTextJpn": "日本語"
+      "btnTextJpn": "日本語",
+      "logoUrl": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/pw-logo-suqare-dark.png"
     },
     "profile": {
       "oneLineMsg": "自學程式設計師",
@@ -652,7 +654,8 @@
       "buttonTitle": "ようこそ",
       "btnTextEng": "English",
       "btnTextCht": "中　文",
-      "btnTextJpn": "日本語"
+      "btnTextJpn": "日本語",
+      "logoUrl": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/pw-logo-suqare-dark.png"
     },
     "profile": {
       "oneLineMsg": "独学プログラマー",
