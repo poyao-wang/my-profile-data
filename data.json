@@ -1,15 +1,15 @@
 {
   "version": {
-    "number": "1.8.0",
-    "time": "2021-05-20T18:20"
+    "number": "1.8.1",
+    "time": "2021-05-21T15:11"
   },
   "structure-version": {
     "number": "1.2.0",
     "time": "2021-05-20T14:44"
   },
   "data-version": {
-    "number": "1.6.0",
-    "time": "2021-05-20T18:52"
+    "number": "1.6.1",
+    "time": "2021-05-21T15:11"
   },
   "defaultLanguage": "eng",
   "eng": {
@@ -17,7 +17,7 @@
       "home": "Home",
       "profile": "Profile",
       "experience": "Experience",
-      "ability": "Ability",
+      "ability": "Abilities",
       "projects": "Projects",
       "contact": "Contact",
       "settings": "Settings"
@@ -32,7 +32,7 @@
     },
     "profile": {
       "oneLineMsg": "A Self-Taught Programmer",
-      "aboutMe": "I am a mechanical engineer. Working in automobile industry. I started stydying programming since 2019.",
+      "aboutMe": "I am a self-taught designer / front-end / back-end Developer. Currently working in automobile industry. I started stydying programming since 2019, following a JavaScript centered development path. I make ReactJS Web / Mobile Apps, deployment on the cloud sever and app stores. On back-end side, I am capable of making RESTful API by node.js with database connection. I speak English, Chinese, and Japanese, capable of designing / making multi-language UI.",
       "pictureUrl": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/me.jpeg",
       "name": "Poyao Wang",
       "details": [
@@ -105,7 +105,7 @@
     },
     "ability": {
       "skills": {
-        "title": "Skill",
+        "title": "Skills",
         "data": [
           {
             "name": "JavaScript",
@@ -327,7 +327,7 @@
   "cht": {
     "screens": {
       "home": "首　頁",
-      "profile": "個人資料",
+      "profile": "關於我",
       "experience": "履　歷",
       "ability": "能　力",
       "projects": "作　品",
@@ -344,7 +344,7 @@
     },
     "profile": {
       "oneLineMsg": "自學程式設計師",
-      "aboutMe": "我是機械工程師。目前在汽車產業就職。我從2019年開始自學程式設計。",
+      "aboutMe": "我是一名自學的設計/前端/後端工程師，目前在汽車產業就職。2019年開始以JavaScript為中心自學程式設計。我能夠製作 ReactJS 網頁/手機 App，並且部署在雲端伺服器，或者是 App 商店。 在後端，我能夠以 node.js 製作 RESTful API，並連接數據庫。我會說英文、中文和日語，並且能夠設計/製作多語言UI。",
       "pictureUrl": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/me.jpeg",
       "name": "王 柏 堯",
       "details": [
@@ -360,7 +360,7 @@
     },
     "experience": {
       "educations": {
-        "title": "教育經歷",
+        "title": "學　歷",
         "data": [
           {
             "inst": "大阪大學",
@@ -369,7 +369,7 @@
             "jobTitle": "特別研究生",
             "time": "2010 - 2011",
             "cont": "武石‧小宮山研究室。FrontierLab計畫2010秋季。渦輪引擎氣膜冷卻技術研究。",
-            "contShort": "武石‧小宮山研究室。渦輪引擎氣膜冷卻技術研究。"
+            "contShort": "武石‧小宮山研究室。FrontierLab計畫2010秋季。渦輪引擎氣膜冷卻技術研究。"
           },
           {
             "inst": "國立清華大學",
@@ -383,7 +383,7 @@
         ]
       },
       "careers": {
-        "title": "求職經歷",
+        "title": "職　歷",
         "data": [
           {
             "inst": "泛博制動部件",
@@ -656,7 +656,7 @@
     },
     "profile": {
       "oneLineMsg": "独学プログラマー",
-      "aboutMe": "現職は自動車産業の機械エンジニア。2019年からプログラミングを習い始めた。",
+      "aboutMe": "私は独学のデザイナー/フロントエンド/バックエンド開発者で、現職は自動車産業の機械エンジニア。2019年からJavaScript中心にして、プログラミングを習い始めた。ReactJS で Web / Mobile App を作成し、クラウドサーバー / App Store にデプロイすることができる。バックエンド側では、node.jsでRESTfulAPIを作成し、データベースをつなぐことができる。英語、中国語、日本語が話せる。多言語UIの設計/作成可能。",
       "pictureUrl": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/me.jpeg",
       "name": "ワン ポヤオ",
       "details": [
