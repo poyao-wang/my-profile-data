@@ -1,15 +1,15 @@
 {
   "version": {
-    "number": "1.8.3",
-    "time": "2021-05-21T15:43"
+    "number": "1.8.4",
+    "time": "2021-05-21T16:17"
   },
   "structure-version": {
     "number": "1.2.0",
     "time": "2021-05-20T14:44"
   },
   "data-version": {
-    "number": "1.6.3",
-    "time": "2021-05-21T15:43"
+    "number": "1.6.4",
+    "time": "2021-05-21T16:17"
   },
   "defaultLanguage": "eng",
   "eng": {
@@ -344,7 +344,7 @@
     },
     "profile": {
       "oneLineMsg": "自學程式設計師",
-      "aboutMe": "我是一名自學的設計/前端/後端工程師，目前在汽車產業就職。2019年開始以JavaScript為中心自學程式設計。我能夠製作 ReactJS 網頁/手機 App，並且部署在雲端伺服器，或者是 App 商店。 在後端，我能夠以 node.js 製作 RESTful API，並連接數據庫。我會說英文、中文和日語，並且能夠設計/製作多語言UI。",
+      "aboutMe": "我是一名自學的設計/前端/後端工程師，目前在汽車產業就職。2019年開始以 JavaScript 為中心自學程式設計。我能夠製作 ReactJS 網頁/手機 App，並且部署在雲端伺服器，或者是 App 商店。 在後端，我能夠以 node.js 製作 RESTful API，並連接數據庫。我會說英文、中文和日語，並且能夠設計/製作多語言UI。",
       "pictureUrl": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/me.jpeg",
       "name": "王 柏 堯",
       "details": [
@@ -369,7 +369,7 @@
             "jobTitle": "特別研究生",
             "time": "2010 - 2011",
             "cont": "武石‧小宮山研究室。FrontierLab計畫2010秋季。渦輪引擎氣膜冷卻技術研究。",
-            "contShort": "武石‧小宮山研究室。FrontierLab計畫2010秋季。渦輪引擎氣膜冷卻技術研究。"
+            "contShort": "武石‧小宮山研究室。FrontierLab 計畫2010秋季。渦輪引擎氣膜冷卻技術研究。"
           },
           {
             "inst": "國立清華大學",
@@ -392,7 +392,7 @@
             "jobTitle": "測試工程師",
             "time": "2019年7月 - 現在",
             "cont": "負責汽車剎車零件測試。煞車性能試驗、剎車機能試驗。 測試數據分析、整理，測試報告撰寫。",
-            "contShort": "負責汽車剎車零件測試。測試行程規劃、數據分析與報告。"
+            "contShort": "負責汽車剎車零件測試。性能試驗、機能試驗。 測試數據分析、整理，測試報告撰寫。"
           },
           {
             "inst": "澳洲打工度假",
@@ -401,7 +401,7 @@
             "jobTitle": "背包客",
             "time": "2018年1月 - 2019年5月",
             "cont": "體驗澳洲文化與生活。Sushi Train（連鎖壽司店）廚房幫手。Australian Country Choice（牛肉工廠）生產線員工。",
-            "contShort": "體驗澳洲文化與生活。餐廳和肉類工廠的工作人員。"
+            "contShort": "體驗澳洲文化與生活。Sushi Train 壽司店廚房幫手。Australian Country Choice 牛肉工廠員工。"
           },
           {
             "inst": "戴姆勒汽車集團",
@@ -410,7 +410,7 @@
             "jobTitle": "測試工程師",
             "time": "2013年4月 - 2016年9月",
             "cont": "負責大型柴油引擎測試。性能試驗、機能試驗、耐久試驗。測試數據分析、整理，測試報告撰寫。測試行程規劃、執行。",
-            "contShort": "負責大型柴油引擎測試。測試行程規劃、數據分析與報告。"
+            "contShort": "負責大型柴油引擎測試。性能、機能、耐久試驗。數據分析、整理，報告撰寫。測試規劃、執行。"
           }
         ]
       }
@@ -584,14 +584,14 @@
         {
           "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/projects/tabatimer.png",
           "cardTitleText": "TabaTimer",
-          "cardText": "iOS / Android app. 簡潔好看的健身計時器 App 以React native撰寫. 上傳於 App Store / Google Play 商店。",
+          "cardText": "iOS / Android app. 簡潔好看的健身計時器 App 以 React native 撰寫. 上傳於 App Store / Google Play 商店。",
           "btnLink": "https://github.com/poyao-wang/tabatimer",
           "btnText": "Github Link"
         },
         {
           "imgSrc": "https://github.com/poyao-wang/my-profile-data/raw/master/profile/projects/poyaowang.png",
           "cardTitleText": "Poyao.Wang",
-          "cardText": "我的個人網站。 以React撰寫，部署於Firebase。",
+          "cardText": "我的個人網站。 以 React 撰寫，部署於 Firebase。",
           "btnLink": "https://poyao.wang",
           "btnText": "Link"
         }
