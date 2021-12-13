@@ -1,6 +1,6 @@
 {
   "version": {
-    "number": "1.10.4",
+    "number": "1.10.5",
     "time": "2021-05-27T12:45"
   },
   "structure-version": {
@@ -8,7 +8,7 @@
     "time": "2021-05-21T18:00"
   },
   "data-version": {
-    "number": "1.8.3",
+    "number": "1.8.4",
     "time": "2021-05-27T12:45"
   },
   "defaultLanguage": "eng",
@@ -33,11 +33,11 @@
     },
     "profile": {
       "oneLineMsg": "A Self-Taught Programmer",
-      "aboutMe": "A self-taught designer / front-end / back-end developer, stydy programming by a JavaScript centered path. I make ReactJS Web / Mobile Apps, and deploy on the cloud sever / app store. On back-end side, I make RESTful APIs by node.js with database connection. I speak English, Chinese, and Japanese, and make multi-language UI.",
+      "aboutMe": "A self-taught designer / front-end / back-end developer, study programming by a JavaScript centered path. I make ReactJS Web / Mobile Apps, and deploy on the cloud sever / app store. On back-end side, I make RESTful APIs by node.js with database connection. I speak English, Chinese, and Japanese, and make multi-language UI.",
       "pictureUrl": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/me.jpeg",
       "name": "Poyao Wang",
       "location": "Sagamihara, Kanagawa, Japan",
-      "mobile": "+81-50-5218-0600",
+      "mobile": "+81-70-8304-5299",
       "email": "poyaowang.taiwan@gmail.com",
       "details": [
         {
@@ -353,7 +353,7 @@
       "pictureUrl": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/me.jpeg",
       "name": "王 柏 堯",
       "location": "日本，神奈川縣，相模原市",
-      "mobile": "+81-50-5218-0600",
+      "mobile": "+81-70-8304-5299",
       "email": "poyaowang.taiwan@gmail.com",
       "details": [
         {
@@ -669,7 +669,7 @@
       "pictureUrl": "https://raw.githubusercontent.com/poyao-wang/my-profile-data/master/profile/me.jpeg",
       "name": "ワン ポヤオ",
       "location": "日本，神奈川県，相模原市",
-      "mobile": "+81-50-5218-0600",
+      "mobile": "+81-70-8304-5299",
       "email": "poyaowang.taiwan@gmail.com",
       "details": [
         {
